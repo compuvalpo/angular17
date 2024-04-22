@@ -1,0 +1,121 @@
+//http://mcg.mbitson.com/#!?mcgpalette0=%231736e3
+
+@import '~@angular/material/theming';
+@include mat-core();
+
+// GAMA DE COLORES
+$my-primary-color: (
+  50 : #e0edf5,
+  100 : #b3d2e6,
+  200 : #80b4d5,
+  300 : #4d95c4,
+  400 : #267fb8,
+  500 : #0068ab,
+  600 : #0060a4,
+  700 : #00559a,
+  800 : #004b91,
+  900 : #003a80,
+  A100 : #adcbff,
+  A200 : #7aabff,
+  A400 : #478bff,
+  A700 : #2e7bff,
+  contrast: (
+      50 : #000000,
+      100 : #000000,
+      200 : #000000,
+      300 : #000000,
+      400 : #ffffff,
+      500 : #ffffff,
+      600 : #ffffff,
+      700 : #ffffff,
+      800 : #ffffff,
+      900 : #ffffff,
+      A100 : #000000,
+      A200 : #000000,
+      A400 : #000000,
+      A700 : #ffffff,
+  )
+);
+
+$my-accent-color: (
+  50 : #f2f8ef,
+  100 : #dfedd8,
+  200 : #c9e2be,
+  300 : #b3d6a4,
+  400 : #a3cd91,
+  500 : #93c47d,
+  600 : #8bbe75,
+  700 : #80b66a,
+  800 : #76af60,
+  900 : #64a24d,
+  A100 : #ffffff,
+  A200 : #daffcd,
+  A400 : #b4ff9a,
+  A700 : #a1ff80,
+  contrast: (
+      50 : #000000,
+      100 : #000000,
+      200 : #000000,
+      300 : #000000,
+      400 : #000000,
+      500 : #000000,
+      600 : #000000,
+      700 : #000000,
+      800 : #000000,
+      900 : #000000,
+      A100 : #000000,
+      A200 : #000000,
+      A400 : #000000,
+      A700 : #000000,
+  )
+);
+
+$my-warn-color: (
+  50 : #fae6e6,
+  100 : #f2bfbf,
+  200 : #e99595,
+  300 : #e06b6b,
+  400 : #d94b4b,
+  500 : #d22b2b,
+  600 : #cd2626,
+  700 : #c72020,
+  800 : #c11a1a,
+  900 : #b61010,
+  A100 : #ffe5e5,
+  A200 : #ffb2b2,
+  A400 : #ff7f7f,
+  A700 : #ff6565,
+  contrast: (
+      50 : #000000,
+      100 : #000000,
+      200 : #000000,
+      300 : #000000,
+      400 : #ffffff,
+      500 : #ffffff,
+      600 : #ffffff,
+      700 : #ffffff,
+      800 : #ffffff,
+      900 : #ffffff,
+      A100 : #000000,
+      A200 : #000000,
+      A400 : #000000,
+      A700 : #000000,
+  )
+);
+
+// PALETA DE COLORES
+$my-palette-primary: mat-palette($my-primary-color);
+$my-palette-accent: mat-palette($my-accent-color);
+$my-palette-warn: mat-palette($my-warn-color);
+
+// TEMA
+$my-theme: mat-light-theme((
+ color: (
+   primary: $my-palette-primary,
+   accent: $my-palette-accent,
+   warn: $my-palette-warn
+ )
+));
+
+// APLICAR TEMA A ANGULAR
+@include angular-material-theme($my-theme);

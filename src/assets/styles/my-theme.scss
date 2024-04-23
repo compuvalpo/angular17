@@ -1,7 +1,7 @@
 //http://mcg.mbitson.com/#!?mcgpalette0=%231736e3
 
-@import '~@angular/material/theming';
-@include mat-core();
+@use '@angular/material' as mat;
+@include mat.core();
 
 // GAMA DE COLORES
 $my-primary-color: (
@@ -104,12 +104,12 @@ $my-warn-color: (
 );
 
 // PALETA DE COLORES
-$my-palette-primary: mat-palette($my-primary-color);
-$my-palette-accent: mat-palette($my-accent-color);
-$my-palette-warn: mat-palette($my-warn-color);
+$my-palette-primary: mat.define-palette($my-primary-color);
+$my-palette-accent: mat.define-palette($my-accent-color);
+$my-palette-warn: mat.define-palette($my-warn-color);
 
 // TEMA
-$my-theme: mat-light-theme((
+$my-theme: mat.define-light-theme((
  color: (
    primary: $my-palette-primary,
    accent: $my-palette-accent,
@@ -118,4 +118,4 @@ $my-theme: mat-light-theme((
 ));
 
 // APLICAR TEMA A ANGULAR
-@include angular-material-theme($my-theme);
+@include mat.all-component-themes($my-theme);

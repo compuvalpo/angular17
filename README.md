@@ -1,8 +1,19 @@
 # Angular17
+
+# Angular Material
 https://github.com/dnyaneshwargiri/angular-material-3
 npm install
 npm start
 ng serve --open
+
+# Environments
+https://angular.io/guide/build
+`ng generate environments`
+
+https://github.com/jimyhdolores/demo-environments-angular16/tree/feature/apply-ngx-env
+https://www.npmjs.com/package/@ngx-env/builder
+
+https://nelsongraa8.medium.com/configurar-variables-de-entorno-en-angular-9526e69e2654
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.4.
 

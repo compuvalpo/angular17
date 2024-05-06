@@ -15,6 +15,12 @@ https://www.npmjs.com/package/@ngx-env/builder
 
 https://nelsongraa8.medium.com/configurar-variables-de-entorno-en-angular-9526e69e2654
 
+
+# SP
+https://dosideas.com/wiki/Stored_Procedures_con_Spring
+https://danielme.com/2023/09/18/curso-spring-data-jpa-rutinas-sql-procedimientos-y-funciones-almacenados/
+https://www.adictosaltrabajo.com/2018/04/25/invocar-a-procedimientos-usando-spring-boot-data-jpa/
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.4.
 
 ## Development server

@@ -1,5 +1,7 @@
 # Angular17
 
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.4.
+
 # Angular Material
 https://github.com/dnyaneshwargiri/angular-material-3
 npm install
@@ -21,7 +23,16 @@ https://dosideas.com/wiki/Stored_Procedures_con_Spring
 https://danielme.com/2023/09/18/curso-spring-data-jpa-rutinas-sql-procedimientos-y-funciones-almacenados/
 https://www.adictosaltrabajo.com/2018/04/25/invocar-a-procedimientos-usando-spring-boot-data-jpa/
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.4.
+
+# Codigos de Error API
+https://ricardogeek.com/buenas-practicas-para-el-manejo-de-errores-en-tu-rest-api/
+https://api.ap.org/media/v/docs/API_Codes.htm
+https://developer.amazon.com/es/docs/incentives-api/gift-codes-errors.html
+https://developers.facebook.com/docs/whatsapp/cloud-api/support/error-codes?locale=es_ES
+https://cloud.google.com/apis/design/errors?hl=es-419
+https://www.ibm.com/docs/es/qradar-common?topic=versions-api-error-messages
+https://learn.microsoft.com/es-es/partner-center/developer/error-codes
+https://developers.google.com/search/apis/indexing-api/v3/core-errors?hl=es-419
 
 ## Development server
 

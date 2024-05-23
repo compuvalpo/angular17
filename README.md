@@ -19,20 +19,28 @@ https://nelsongraa8.medium.com/configurar-variables-de-entorno-en-angular-9526e6
 
 
 # SP
-https://dosideas.com/wiki/Stored_Procedures_con_Spring
-https://danielme.com/2023/09/18/curso-spring-data-jpa-rutinas-sql-procedimientos-y-funciones-almacenados/
-https://www.adictosaltrabajo.com/2018/04/25/invocar-a-procedimientos-usando-spring-boot-data-jpa/
+- https://dosideas.com/wiki/Stored_Procedures_con_Spring
+- https://danielme.com/2023/09/18/curso-spring-data-jpa-rutinas-sql-procedimientos-y-funciones-almacenados/
+- https://www.adictosaltrabajo.com/2018/04/25/invocar-a-procedimientos-usando-spring-boot-data-jpa/
 
 
 # Codigos de Error API
-https://ricardogeek.com/buenas-practicas-para-el-manejo-de-errores-en-tu-rest-api/
-https://api.ap.org/media/v/docs/API_Codes.htm
-https://developer.amazon.com/es/docs/incentives-api/gift-codes-errors.html
-https://developers.facebook.com/docs/whatsapp/cloud-api/support/error-codes?locale=es_ES
-https://cloud.google.com/apis/design/errors?hl=es-419
-https://www.ibm.com/docs/es/qradar-common?topic=versions-api-error-messages
-https://learn.microsoft.com/es-es/partner-center/developer/error-codes
-https://developers.google.com/search/apis/indexing-api/v3/core-errors?hl=es-419
+- https://ricardogeek.com/buenas-practicas-para-el-manejo-de-errores-en-tu-rest-api/
+- https://api.ap.org/media/v/docs/API_Codes.htm
+- https://developer.amazon.com/es/docs/incentives-api/gift-codes-errors.html
+- https://developers.facebook.com/docs/whatsapp/cloud-api/support/error-codes?locale=es_ES
+- https://cloud.google.com/apis/design/errors?hl=es-419
+- https://www.ibm.com/docs/es/qradar-common?topic=versions-api-error-messages
+- https://learn.microsoft.com/es-es/partner-center/developer/error-codes
+- https://developers.google.com/search/apis/indexing-api/v3/core-errors?hl=es-419
+
+# Cors Spring Boot
+- https://openwebinars.net/blog/como-configurar-cors-en-mi-api-rest-con-spring-boot/
+- https://es.stackoverflow.com/questions/613949/problema-con-el-cors-en-springboot
+- https://docs.spring.io/spring-security/reference/reactive/integrations/cors.html
+- https://howtodoinjava.com/spring-boot2/spring-cors-configuration/
+- https://docs.spring.io/spring-framework/docs/4.2.x/spring-framework-reference/html/cors.html
+
 
 ## Development server
 

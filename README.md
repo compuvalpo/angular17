@@ -35,8 +35,8 @@ https://nelsongraa8.medium.com/configurar-variables-de-entorno-en-angular-9526e6
 - https://developers.google.com/search/apis/indexing-api/v3/core-errors?hl=es-419
 
 # Cors Spring Boot
-- https://openwebinars.net/blog/como-configurar-cors-en-mi-api-rest-con-spring-boot/
 - https://es.stackoverflow.com/questions/613949/problema-con-el-cors-en-springboot
+- https://openwebinars.net/blog/como-configurar-cors-en-mi-api-rest-con-spring-boot/
 - https://docs.spring.io/spring-security/reference/reactive/integrations/cors.html
 - https://howtodoinjava.com/spring-boot2/spring-cors-configuration/
 - https://docs.spring.io/spring-framework/docs/4.2.x/spring-framework-reference/html/cors.html
